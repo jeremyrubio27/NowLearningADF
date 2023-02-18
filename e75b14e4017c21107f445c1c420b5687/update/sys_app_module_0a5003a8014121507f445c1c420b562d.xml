@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>SEPARATOR</link_type>
+        <link_type>DIRECT</link_type>
         <map_page/>
-        <mobile_title>Loaner Request</mobile_title>
+        <mobile_title>Properties</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name/>
-        <order>100</order>
+        <order>800</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>system_properties_ui.do?sysparm_title=Loaner Request Properties&amp;sysparm_category=Loaner Request</query>
         <report/>
-        <roles>x_cdltd_loaner_req.loaner_request_user,x_cdltd_loaner_req.admin</roles>
+        <roles>x_cdltd_loaner_req.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-01-31 11:11:44</sys_created_on>
+        <sys_created_on>2023-02-13 08:36:17</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e2b92ce001bc21107f445c1c420b56ff</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Loaner Request</sys_name>
+        <sys_id>0a5003a8014121507f445c1c420b562d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Properties</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e75b14e4017c21107f445c1c420b5687</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">e75b14e4017c21107f445c1c420b5687</sys_scope>
-        <sys_update_name>sys_app_module_e2b92ce001bc21107f445c1c420b56ff</sys_update_name>
+        <sys_update_name>sys_app_module_0a5003a8014121507f445c1c420b562d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-02-13 08:59:16</sys_updated_on>
+        <sys_updated_on>2023-02-13 08:58:04</sys_updated_on>
         <timeline_page/>
-        <title>Loaner Request</title>
+        <title>Properties</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
